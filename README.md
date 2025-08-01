@@ -4,7 +4,11 @@ Este repositório será utilizado para registros de materiais e atividades  rela
 
 ## 👨‍💻 Integrantes do Grupo
 
-- Escreva os nomes aqui
+- Gabriel Maximino;
+- Lucas Albino;
+- Luiz Roberto Moretti; 
+- Mateus Boletta;
+- Vinícius Martins
 
 ## ✅ Tarefas e Atividades
 
